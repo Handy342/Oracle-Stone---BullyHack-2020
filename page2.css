@@ -1,0 +1,54 @@
+
+
+h3 {
+   color: rgb(87,29,112);
+   
+   font-size: 20pt;
+   text-align:left;
+     font-family: Agency FB, cursive;
+    
+
+}
+
+body{
+    
+    color: rgb(229,230,243);
+    font-size: 15pt;
+    display: grid;
+    text-align: center;
+    background-image: url( "https://images.wallpaperscraft.com/image/green_line_strip_light_65814_1280x720.jpg" );
+    
+}
+
+
+
+input{
+    
+    font-family: lucida;
+    font-size: 2em;
+    background: #3d0066;
+    color: #b3ffb3;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius:20px;
+    line-height: 20px;
+}
+
+table, th, td {
+    border: 1px solid  black;
+}
+th, td {
+    padding: 15px;
+    
+}
+th {
+    text-align: center;
+    background-color:  #4CAF50;
+    
+}
+td {
+    text-align: left;
+    background-color: #809fff;
+
+    
+}

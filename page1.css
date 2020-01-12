@@ -1,0 +1,26 @@
+
+
+h1 {
+   color: rgb(87,29,112);
+   
+   font-size: 35pt;
+    text-align: center; 
+     font-family: Agency FB, cursive;
+    margin-top: 100px;
+}
+
+
+label{ text-align:right; }
+
+
+body{
+    color: rgb(229,230,243);
+    font-size: 15pt;
+    display: grid;
+    text-align: center;
+
+    background-image: url( "https://images.wallpaperscraft.com/image/greens_spots_stripes_light_51753_1280x720.jpg" );
+    background-color: rgba(255,255,255,0.198);
+    background-blend-mode: lighten;
+}
+
